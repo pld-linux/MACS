@@ -11,7 +11,7 @@ Source0:	http://macs:chipseq@liulab.dfci.harvard.edu/MACS/src/%{name}-%{version}
 URL:		http://liulab.dfci.harvard.edu/MACS/
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:		python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
