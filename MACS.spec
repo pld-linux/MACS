@@ -2,7 +2,7 @@ Summary:	Model-based Analysis for ChIP-Seq
 #Summary(pl.UTF-8):	-
 Name:		MACS
 Version:	1.4.1
-Release:	1
+Release:	2
 License:	Artistic
 Group:		Development/Languages/Python
 # user and password are "publicly" visible on the web page (ROT13)
